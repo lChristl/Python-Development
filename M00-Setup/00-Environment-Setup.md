@@ -54,7 +54,7 @@ Each guide has instructions for all three — find your section:
 
 ## After Setup
 
-Once all 6 steps are done, go to your first module on GitHub and watch for the Module 01 announcement on MS Teams.
+Once all 7 steps are done, go to your first module on GitHub and watch for the Module 01 announcement on MS Teams.
 
 ---
 
