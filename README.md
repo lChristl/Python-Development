@@ -44,7 +44,7 @@ Modules are published as the course progresses. Watch MS Teams for announcements
 
 | Tool | Purpose |
 |------|---------|
-| Python 3.x | The programming language |
+| [Python 3.x](https://www.python.org/downloads/) | The programming language |
 | VS Code | Primary code editor |
 | Jupyter Notebooks | Interactive lecture and exercise format |
 | Git | Version control |
