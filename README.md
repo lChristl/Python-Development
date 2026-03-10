@@ -45,13 +45,13 @@ Modules are published as the course progresses. Watch MS Teams for announcements
 | Tool | Purpose |
 |------|---------|
 | [Python 3.x](https://www.python.org/downloads/) | The programming language |
-| VS Code | Primary code editor |
-| Jupyter Notebooks | Interactive lecture and exercise format |
-| Git | Version control |
-| GitHub | Hosts this repo and your assignment repos |
-| GitHub Classroom | Distributes and collects assignments |
-| GitHub Codespaces | Browser-based VS Code — use if you cannot install locally ||
-| MS Teams | Announcements, theory lectures, and recordings |
+| [VS Code](https://code.visualstudio.com/download) | Primary code editor |
+| [Jupyter Notebooks](https://jupyter.org/try-jupyter/lab/) | Interactive lecture and exercise format |
+| [Git](https://git-scm.com/install/) | Version control |
+| [GitHub](https://github.com/) | Hosts this repo and your assignment repos |
+| [GitHub Classroom](https://classroom.github.com/classrooms) | Distributes and collects assignments |
+| [GitHub Codespaces] | Browser-based VS Code — use if you cannot install locally ||
+| [MS Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in) | Announcements, theory lectures, and recordings |
 
 ---
 
