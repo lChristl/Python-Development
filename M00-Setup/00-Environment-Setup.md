@@ -55,7 +55,7 @@ Each guide has instructions for all three — find your section:
 ## After Setup
 
 Once all 7 steps are done, go to your first module on GitHub and watch for the Module 01 announcement on MS Teams.
-
+> Already finished this stage? Start Learning -> [Module 1](../M01-Variables-and-Data-Types/M01-Lecture.ipynb)
 ---
 
 *Python Development | M00 Setup | MCC BSIT 2526*
